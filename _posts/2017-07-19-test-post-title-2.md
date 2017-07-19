@@ -8,6 +8,6 @@ permalink: >
   http://pixellab.com/dev/docsite/2017/07/19/test-post-title-2/
 published: true
 post_date: 2017-07-19 16:11:10
-category: 0.0.1
+category: > 0.0.1
 ---
 Post goes here. Re added
