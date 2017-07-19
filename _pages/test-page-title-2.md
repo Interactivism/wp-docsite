@@ -1,6 +1,6 @@
 ---
 ID: 17
-post_title: Test Page Title - Edited
+post_title: 'Test Page Title &#8211; Edited'
 author: docsite
 post_excerpt: ""
 layout: page
