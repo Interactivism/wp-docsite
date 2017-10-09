@@ -4,8 +4,7 @@ post_title: Sample Page
 author: docsite
 post_excerpt: ""
 layout: page
-permalink: >
-  http://pixellab.com/dev/docsite/sample-page/
+permalink: http://pixellab.com/dev/docsite/
 published: true
 post_date: 2017-07-19 15:02:54
 ---
