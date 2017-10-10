@@ -11,7 +11,7 @@ post_date: 2017-07-19 15:02:54
 ---
 <h2>Join the waitlist to get one of our custom handmade tables</h2>
 
-<a id="join-list-button" class="waitlistr-Button-primary waitlistrJoinTrigger" style="background-color: #000000; color: #ffffff">
+<a href="##" id="join-list-button" class="waitlistr-Button-primary waitlistrJoinTrigger" style="background-color: #000000; color: #ffffff">
       JOIN MY LIST TO GET YOUR THINGAMABOB
     </a>
 
