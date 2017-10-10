@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2017-07-19 15:02:54
 ---
-<h2>Join the waitlist to get one of our custom handmade tables</h2>
+<h2>Join the waitlist to get a custom table</h2>
